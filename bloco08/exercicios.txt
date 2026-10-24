@@ -1,0 +1,7 @@
+BLOCO 8 — EXERCÍCIOS PARA LER
+
+1. Leia consulta.txt e mostre seu conteúdo.
+2. Conte palavras de um arquivo usando split().
+3. Trate FileNotFoundError com mensagem clara.
+4. Acrescente uma linha a um diário de estudos.
+5. Desafio: leia números de um arquivo e trate linhas inválidas sem encerrar o programa.

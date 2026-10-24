@@ -1,7 +1,0 @@
-BLOCO 7 — EXERCÍCIOS PARA LER
-
-1. Receba nome e idade e devolva uma frase.
-2. Converta quilômetros em milhas.
-3. Some uma lista de preços e valide entradas.
-4. Separe validação e formatação em funções diferentes.
-5. Desafio: calcule média de notas numa função e classifique o resultado noutra.
