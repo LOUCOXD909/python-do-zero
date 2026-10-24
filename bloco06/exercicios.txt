@@ -1,7 +1,0 @@
-BLOCO 6 — EXERCÍCIOS PARA LER
-
-1. Crie uma lista de cinco jogos e percorra-a com for.
-2. Escreva uma função que encontre o maior número.
-3. Crie um dicionário de estoque.
-4. Busque um produto sem diferenciar maiúsculas.
-5. Desafio: modele tarefas como dicionários com título e status.
