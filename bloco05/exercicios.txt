@@ -1,0 +1,7 @@
+BLOCO 5 — EXERCÍCIOS PARA LER
+
+1. Mostre os números de 1 a 20.
+2. Some os números pares de 1 a 100.
+3. Conte quantas vezes uma letra aparece num texto.
+4. Crie a tabuada de um número.
+5. Desafio: implemente FizzBuzz de 1 a 30.
