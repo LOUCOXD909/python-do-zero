@@ -1,0 +1,9 @@
+BLOCO 9 — EXERCÍCIOS PARA LER
+
+1. Crie um módulo conversoes.py.
+2. Escreva ao menos quatro testes para ele.
+3. Teste entrada inválida com pytest.raises.
+4. Use pytest.mark.parametrize para vários valores.
+5. Desafio: crie um pequeno projeto com módulo principal, módulo de funções e README.
+
+O exemplo de IMC é exercício matemático, não diagnóstico de saúde.

@@ -1,0 +1,13 @@
+BLOCO 2 — CONSULTA RÁPIDA
+
+nome = "Lia"   # str
+idade = 19     # int
+preco = 4.50   # float
+ativo = True   # bool
+type(idade)
+int("12")
+float("2.5")
+str(42)
+
+input() devolve str. Use try/except ValueError ao converter dados incertos.
+Testar: python -m pytest bloco02 -q

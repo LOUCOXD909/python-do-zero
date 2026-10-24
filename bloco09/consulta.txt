@@ -1,0 +1,13 @@
+BLOCO 9 — CONSULTA RÁPIDA
+
+python -m pytest -q
+python -m pytest bloco09 -q
+python -m pytest bloco09/test_bloco09_exemplo.py -q
+
+def test_soma():
+    assert somar(2, 3) == 5
+
+with pytest.raises(ValueError):
+    funcao_invalida()
+
+Testes precisam cobrir casos comuns e inválidos.

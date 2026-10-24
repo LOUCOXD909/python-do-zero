@@ -1,0 +1,7 @@
+BLOCO 1 — EXERCÍCIOS PARA LER
+
+1. Execute o exemplo e altere o nome.
+2. Crie mensagem_final() que devolva uma frase.
+3. Adicione um comentário começando por #.
+4. Crie uma função que receba um nome e devolva "Bom estudo, NOME!".
+5. Escreva suas respostas em um arquivo Python separado. TXT é material de leitura.

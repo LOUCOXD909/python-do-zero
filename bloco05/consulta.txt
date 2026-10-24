@@ -1,0 +1,13 @@
+BLOCO 5 — CONSULTA RÁPIDA
+
+for n in range(5):
+    print(n)  # 0 a 4
+
+for item in itens:
+    ...
+
+while condicao:
+    # atualize algo para encerrar
+
+break encerra; continue pula a repetição.
+Testar: python -m pytest bloco05 -q

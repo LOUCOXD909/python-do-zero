@@ -1,0 +1,10 @@
+BLOCO 8 — CONSULTA RÁPIDA
+
+from pathlib import Path
+caminho = Path("texto.txt")
+conteudo = caminho.read_text(encoding="utf-8")
+caminho.write_text("Olá", encoding="utf-8")
+
+"r" lê; "w" sobrescreve; "a" acrescenta.
+Erros comuns: FileNotFoundError, PermissionError, ValueError.
+Testar: python -m pytest bloco08 -q

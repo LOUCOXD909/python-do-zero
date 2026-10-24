@@ -1,0 +1,14 @@
+BLOCO 4 — CONSULTA RÁPIDA
+
+if condicao:
+    ...
+elif outra_condicao:
+    ...
+else:
+    ...
+
+Comparações: == != > < >= <=
+Lógica: and, or, not
+Use quatro espaços de indentação.
+Teste abaixo, no limite e acima.
+Testar: python -m pytest bloco04 -q
