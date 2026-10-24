@@ -1,0 +1,14 @@
+BLOCO 6 — CONSULTA RÁPIDA
+
+itens = ["a", "b"]
+itens.append("c")
+itens[0]
+len(itens)
+
+pessoa = {"nome": "Ana", "idade": 21}
+pessoa["nome"]
+pessoa.get("email", "não informado")
+sum([2, 3, 4])
+max([2, 3, 4])
+
+Testar: python -m pytest bloco06 -q
