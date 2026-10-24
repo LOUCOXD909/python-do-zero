@@ -1,7 +1,0 @@
-BLOCO 3 — EXERCÍCIOS PARA LER
-
-1. Calcule 17 % 5.
-2. Converta Celsius para Fahrenheit: F = C * 9 / 5 + 32.
-3. Normalize texto removendo espaços e usando minúsculas.
-4. Rejeite preços negativos.
-5. Desafio: calcule a média de três notas com duas casas decimais.

@@ -1,0 +1,7 @@
+BLOCO 4 — EXERCÍCIOS PARA LER
+
+1. Classifique um número como positivo, negativo ou zero.
+2. Classifique uma idade em categorias com limites documentados.
+3. Pesquise e implemente as regras de ano bissexto.
+4. Teste limites exatos de cada categoria.
+5. Desafio: valide duas condições usando and e explique a lógica.
