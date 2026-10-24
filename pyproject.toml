@@ -1,4 +1,0 @@
-[tool.pytest.ini_options]
-testpaths = ["bloco01", "bloco02", "bloco03", "bloco04", "bloco05", "bloco06", "bloco07", "bloco08", "bloco09", "bloco10"]
-python_files = ["test_*.py"]
-addopts = "-ra"
