@@ -1,7 +1,0 @@
-BLOCO 2 — EXERCÍCIOS PARA LER
-
-1. Crie variáveis de exemplo para nome, idade, altura e estudante.
-2. Mostre os tipos usando type().
-3. Crie uma função de preço vezes quantidade.
-4. Converta um texto numérico em inteiro.
-5. Desafio: trate ValueError com mensagem clara. Não publique dados pessoais.
