@@ -1,0 +1,15 @@
+BLOCO 10 — CHECKLIST DO PROJETO FINAL
+
+[ ] Escolhi um problema e listei requisitos.
+[ ] Criei uma pasta nova na minha IDE.
+[ ] Implementei pelo menos cinco funções.
+[ ] Usei condicionais, loops e coleções.
+[ ] Validei entradas e tratei erros.
+[ ] Escrevi pelo menos oito testes.
+[ ] Executei python -m pytest -q e li os resultados.
+[ ] Escrevi um README com comandos de execução.
+[ ] Enviei à IA todos os arquivos e saída dos testes.
+[ ] Recebi nota baseada em RUBRICA.md.
+[ ] Corrigi um erro e consigo explicar por quê.
+
+Envie à IA o enunciado, arquivos, README, testes e erros completos. Este TXT é material de leitura.

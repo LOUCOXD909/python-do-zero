@@ -1,0 +1,7 @@
+BLOCO 10 — GUIA DE ENTREGA À IA
+
+Inclua o enunciado, árvore de arquivos, conteúdo dos arquivos, README, comando de teste e saída real dos testes.
+
+Peça nota de 0 a 100 conforme RUBRICA.md, lista de requisitos ausentes, erros com caminho e linha quando verificável, explicação para iniciante, casos extremos sem teste e três assuntos seguintes.
+
+A IA não deve afirmar que executou o código se só leu os arquivos.
